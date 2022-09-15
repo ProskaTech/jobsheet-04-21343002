@@ -1,10 +1,8 @@
 Nama : Aini Rizkina
 NIM : 21343002
 
- Pada jobsheet 4 ini mempelajari operator bilangan pada java,operator java terbagi 3,yaitu : 
- yang pertama Unary Operator,seperti operasi penambahan,pengurangan atau membalik nilai dari suatu boolean. 
- dan Binary Operator,Seperti arithmetic,relational,logical,bitwise,assignment operator. 
- terakhir Ternary Operator.
-Cara menggunakan unary operator,contoh : int i = 10; int j = 3; //Diatas merupakan pendeklarasian Variabel integer System.out.println("i+j = " + (i+j)); //Diatas merupakan contoh penggunaan operator aritmatika (+) //maka hasilnya : i+j = 13.
-Cara menggunakan binary operator,contoh : int i = 10; int j = 3; //Diatas merupakan pendeklarasian Variabel integer System.out.println("i>j = " + (i>j)); //maka hasilnya : true //Mengapa true?,karena i = 10 dan 10 lebih besar daripada 3,diatas merupakan contoh //operator binary relational.
-Cara menggunakan ternary operator di latihan 7 dan latihan 6
+Pada job 4 ini membahas tentang Java Operators
+java Operators itu ialah suatu simbol yang digunakan untuk melakukan sesuatu operasi tertentu. operand java operators terbagi atas 3 yaitu 
+1. Unary Operator  nah unary ini berfungsi untuk melakukan berbagai operasi Aritmatik yang hanya melibatkan 1 operand,operasi ini misalnya berupa penambbahan,pengurangan atau membalik suatu nilai dari boolean
+2. Binary Operator nah Binary ini berfungsi untuk melakukan berbagai operasi aritmatik yang belibatkan dua operand.
+3. Ternary Operator nah Ternary ini berfungsi untuk melakukan berbagi operasi aritmatik yang melibatkan tiga operand.
