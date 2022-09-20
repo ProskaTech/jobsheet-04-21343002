@@ -1,5 +1,8 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+Nama : Aini Rizkina
+NIM : 21343002
+
+Pada job 4 ini membahas tentang Java Operators
+java Operators itu ialah suatu simbol yang digunakan untuk melakukan sesuatu operasi tertentu. operand java operators terbagi atas 3 yaitu 
+1. Unary Operator  nah unary ini berfungsi untuk melakukan berbagai operasi Aritmatik yang hanya melibatkan 1 operand,operasi ini misalnya berupa penambbahan,pengurangan atau membalik suatu nilai dari boolean
+2. Binary Operator nah Binary ini berfungsi untuk melakukan berbagai operasi aritmatik yang belibatkan dua operand.
+3. Ternary Operator nah Ternary ini berfungsi untuk melakukan berbagi operasi aritmatik yang melibatkan tiga operand.
